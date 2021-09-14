@@ -1,0 +1,32 @@
+{
+  "name": "valorantapi.js",
+  "version": "0.0.1",
+  "description": "API Wrapper for unofficial Valorant API",
+  "main": "built/index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ts-node": "^10.2.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node .",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ev3nvy/ValorantAPI.js.git"
+  },
+  "keywords": [
+    "valorant",
+    "valorant api",
+    "valorant-api",
+    "valorant_api"
+  ],
+  "author": "ev3nvy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ev3nvy/ValorantAPI.js/issues"
+  },
+  "homepage": "https://github.com/ev3nvy/ValorantAPI.js#readme"
+}
