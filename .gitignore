@@ -1,5 +1,6 @@
 test.txt
 endpoints.txt
+.npmignore
 
 node_modules/
 built/
