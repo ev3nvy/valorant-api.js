@@ -1,6 +1,6 @@
 {
   "name": "@ev3nvy/valorant-api.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "API Wrapper for unofficial Valorant API",
   "main": "built/index.js",
   "types": "built/index.d.ts",
