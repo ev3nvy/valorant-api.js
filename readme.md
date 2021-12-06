@@ -17,7 +17,7 @@ First, import library into your project.
 const Valorant = require('@ev3nvy/valorant-api.js');
 ```
 
-You can also use distructuring import:
+You can also use destructuring import:
 ```node
 const { ValorantClientAPI, Regions } = require('@ev3nvy/valorant-api.js');
 ```
